@@ -1,0 +1,5 @@
+storePassword=demokey1
+keyPassword=demokey1
+keyAlias=demokey1
+storeFile=D://Dev_Mob_demo//key//mi_app_keystore.jks
+
